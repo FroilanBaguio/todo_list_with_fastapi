@@ -1,0 +1,27 @@
+----------
+TODO LIST WITH FASTAPI
+----------
+
+This is a simple todo list project to practice CRUD
+or rather to practice FastAPI and familiarize how it works
+I plan to upload this into a github repository
+and use this as part of my resume for applying as a backend developer
+
+----------
+GOAL
+----------
+Learn path parameters
+Learn query parameters
+Learn Pydantic
+Learn how to do basic CRUD with sqlalchemy
+
+----------
+HAVE NOT INCLUDED
+----------
+I haven't included a user authentication
+I haven't included setting a cookie
+
+----------
+WHAT I DID
+----------
+Basic CRUD to familiarize myself with sqlalchemy
