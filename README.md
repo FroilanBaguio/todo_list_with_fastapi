@@ -28,6 +28,9 @@ WHAT I DID
 Basic CRUD to familiarize myself with sqlalchemy
 
 ----------
-HOW TO DOWNLOAD
+HOW TO CLONE
 ----------
-git clone https://github.com/FroilanBaguio/tood_list_with_fastapi.git
+python -v venv venv
+git clone https://github.com/FroilanBaguio/todo_list_with_fastapi.git
+source venv/bin/activate
+pip install -r requirements.txt
