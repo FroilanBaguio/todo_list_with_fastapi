@@ -20,6 +20,7 @@ HAVE NOT INCLUDED
 ----------
 I haven't included a user authentication
 I haven't included setting a cookie
+I haven't included a env file and store the credentials there
 
 ----------
 WHAT I DID
