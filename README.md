@@ -38,6 +38,6 @@ pip install -r requirements.txt
 ----------
 HOW TO RUN
 ----------
-cd into the directory
+cd into the cloned directory
 cd into backend directory
 python main.py
