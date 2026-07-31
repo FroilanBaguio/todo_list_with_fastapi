@@ -26,3 +26,8 @@ I haven't included a env file and store the credentials there
 WHAT I DID
 ----------
 Basic CRUD to familiarize myself with sqlalchemy
+
+----------
+HOW TO DOWNLOAD
+----------
+git clone https://github.com/FroilanBaguio/tood_list_with_fastapi.git
