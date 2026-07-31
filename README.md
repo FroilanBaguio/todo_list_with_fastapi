@@ -34,3 +34,10 @@ python -v venv venv
 git clone https://github.com/FroilanBaguio/todo_list_with_fastapi.git
 source venv/bin/activate
 pip install -r requirements.txt
+
+----------
+HOW TO RUN
+----------
+cd into the directory
+cd into backend directory
+python main.py
